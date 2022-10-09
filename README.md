@@ -31,7 +31,7 @@
     
     🟢 In around you tab, you'll get the popular music of the country you live in.
     
-        *** I made it specifically for India by default, because I was getting some error from api end while fetching the country name.
+        *** I made it specifically for India by default, because I was getting some error from api end, while fetching the country name.
 
     
   **[⬆ Back to Top](#music-player-app)**

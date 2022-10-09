@@ -27,7 +27,7 @@
     
     🟢 Click the artist, you'll get the other related songs of that artist.
     
-    🟢 Click the song details, you'll navigate to the song details page where we can gat the song lyrics and other related songs.
+    🟢 Click the song details, you'll navigate to the song details page where we can get the song lyrics and other related songs.
     
     🟢 In around you tab, you'll get the popular music of the country you live in.
     
